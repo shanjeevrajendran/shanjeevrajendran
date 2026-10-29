@@ -4,7 +4,7 @@ Data platform architect. I built Cloakroom, an open-source plugin that keeps sec
 
 ## Products
 
-- **Cloakroom**: an open-source plugin for Claude Code that replaces secrets and personal data with placeholders before the model sees them, then restores the real values in what Claude writes. [Repo](https://github.com/shanjeevrajendran/cloakroom) · [How it works](https://shanjeevrajendran.github.io/cloakroom/) · [PyPI](https://pypi.org/project/cloakroom/)
+- **Cloakroom**: an open-source plugin for Claude Code that replaces secrets and personal data with placeholders before the model sees them, then restores the real values in what Claude writes. [Repo](https://github.com/shanjeevrajendran/cloakroom) · [How it works](https://cloakroom.sh/) · [PyPI](https://pypi.org/project/cloakroom/)
 
 ## Writing
 
