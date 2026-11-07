@@ -8,6 +8,7 @@ I build data platforms, and I run AI assistants on real work. The tools I ship c
 
 **Writing:**
 
+- [Apple's Illusion of Thinking: the paper is right, the lesson is wrong](https://www.linkedin.com/feed/update/urn:li:activity:7522873173592133632/) (LinkedIn)
 - [How I keep secrets and personal data out of Claude Code](https://cloakroom.sh/) (cloakroom.sh)
 - [What Cloakroom would and wouldn't have done in October's incidents](https://dev.to/shanjeev_rajendran/what-cloakroom-would-and-wouldnt-have-done-in-octobers-incidents-45h) (dev.to)
 - [Keep your secrets and personal data away from your coding agent](https://medium.com/@shanjeev/keep-your-secrets-and-personal-data-away-from-your-coding-agent-e07d4cef0c5a) (Medium)
